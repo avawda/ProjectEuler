@@ -1,6 +1,5 @@
 import datetime
 import os
-import Eutils as et
 import math
 
 # PROBLEM STATEMENT
