@@ -1,4 +1,0 @@
-2020-01-29 09:17:12,893 - Retrieve timestamp and paths
-2020-01-29 09:17:12,896 - Setup layout and generate window
-2020-01-29 09:17:12,897 - Check if PLE files are open
-2020-01-29 09:19:41,686 - Trying to open \\cibjnbtreas01\TREASURY\MoneyMarket\Spreadsheets\Daily\PLE\LATEST\
